@@ -27,7 +27,7 @@ h1 {
 	display: grid;
 	grid-template-columns: auto auto;
 	justify-content: space-evenly;
-	grid-row-gap: 30px;
+	grid-row-gap: 50px;
 	grid-column-gap: 10px;
 }
 
